@@ -1,6 +1,7 @@
 ### oli 👋
-![](https://komarev.com/ghpvc/?username=xNayra&label=Visitas+lul&color=ff69b4)
-![lul](https://github-readme-stats.vercel.app/api?username=xNayra&show_icons=true&theme=radical)
+![q](https://komarev.com/ghpvc/?username=xNayra&label=Visitas+lul&color=ff69b4)
+
+![lul](https://github-readme-stats.vercel.app/api?username=xNayra&show_icons=true&theme=omni)
 
 
 ## Algunas basuras x aquí (Me aburria)
