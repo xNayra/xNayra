@@ -1,5 +1,6 @@
-### hh 👋
 ![q](https://komarev.com/ghpvc/?username=xNayra&label=Visitas+lul&color=ff69b4)
+
+### hh 👋
 
 ![lul](https://github-readme-stats.vercel.app/api?username=xNayra&show_icons=true&theme=omni)
 
@@ -10,7 +11,6 @@
 
 ## bruh
 [![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xNayra&layout=compact)](https://github.com/xNayra)
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=xnayra)](https://github.com/xNayra)
 
 
 <!--
