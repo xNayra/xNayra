@@ -4,8 +4,8 @@
 
 
 ## qqqq
-[![lol](https://github-readme-stats.vercel.app/api/pin/?username=xNayra&repo=github-readme-stats)](https://github.com/xNayra/forcebans)
-[![lol2](https://github-readme-stats.vercel.app/api/pin/?username=xNayra&repo=github-readme-stats)](https://github.com/xNayra/equationTestTry)
+[![lol](https://github-readme-stats.vercel.app/api/pin/?username=xNayra&repo=forcebans)](https://github.com/xNayra/forcebans)
+[![lol2](https://github-readme-stats.vercel.app/api/pin/?username=xNayra&repo=equationTestTry)](https://github.com/xNayra/equationTestTry)
 
 <!--
 **xNayra/xNayra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
