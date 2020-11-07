@@ -10,6 +10,7 @@
 
 ## bruh
 [![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xNayra&layout=compact)](https://github.com/xNayra)
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=xnayra)](https://github.com/xNayra)
 
 
 <!--
