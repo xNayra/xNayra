@@ -1,4 +1,4 @@
-![q](https://komarev.com/ghpvc/?username=xNayra&label=Visitas+Mensuales&color=ff69b4)
+![q](https://komarev.com/ghpvc/?username=xNayra&label=Visitas<3&color=ff69b4)
 
 ### hh 👋
 
