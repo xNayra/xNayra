@@ -12,6 +12,7 @@ en mis tiempos libres uso unity para crear videojuegos 2d sin futuro
 si quieres jugar XD: 682231000595693577 (disc)
 
 fullx64 developer
+
 ![lul](https://github-readme-stats.vercel.app/api?username=xNayra&show_icons=true&theme=omni)
 
   ```java
