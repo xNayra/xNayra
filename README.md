@@ -2,7 +2,26 @@
 
 ![lul](https://github-readme-stats.vercel.app/api?username=xNayra&show_icons=true&theme=omni)
 
-<!--
-**xNayra/xNayra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+  ```java
+  System.out.println("Java"); 
+  ```
+  ```csharp
+  Console.WriteLine("C#");
+  ```
+  ```js
+  console.log("JavaScript")
+  ```
+  ```php
+  print "php"; 
+  ```
+  ```html
+  <p1>HTML</p1>
+  ```
+  ```cpp
+  cout << "C++";
+  Serial.println("Arduino")
+  ```
+  ```py
+  print("Python")
+  ```
 
