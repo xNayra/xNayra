@@ -4,7 +4,7 @@ no se que poner aquí
 
 borre el 90% de mis repositorios 😎
 
-bueno estoy retirada y actualmente me dedico a una única e importante cosa:
+bueno estoy tomando un descanso y actualmente me dedico a una única e importante cosa:
 respirar
 
 en mis tiempos libres uso unity para crear videojuegos 2d sin futuro 
