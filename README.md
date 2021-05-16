@@ -1,8 +1,11 @@
 ![q](https://komarev.com/ghpvc/?username=xNayra&label=Visitas&color=ff69b4)
 no se que poner aquí
+
 borre el 90% de mis repositorios 😎
+
 bueno estoy retirada y actualmente me dedico a una única e importante cosa:
 vivir
+
 en mis tiempos libres uso unity para crear videojuegos 2d sin futuro 
 
 
