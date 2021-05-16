@@ -1,4 +1,5 @@
 ![q](https://komarev.com/ghpvc/?username=xNayra&label=Visitas&color=ff69b4)
+
 no se que poner aquí
 
 borre el 90% de mis repositorios 😎
@@ -9,6 +10,7 @@ respirar
 en mis tiempos libres uso unity para crear videojuegos 2d sin futuro 
 
 si quieres jugar XD: 682231000595693577 (disc)
+
 ![lul](https://github-readme-stats.vercel.app/api?username=xNayra&show_icons=true&theme=omni)
 
   ```java
