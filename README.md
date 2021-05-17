@@ -24,9 +24,6 @@ fullx64 developer
   ```js
   console.log("JavaScript")
   ```
-  ```php
-  print "php"; 
-  ```
   ```html
   CREEPER AWW MAN
   ```
